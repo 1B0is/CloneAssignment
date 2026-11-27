@@ -183,3 +183,5 @@ Emoji:
 Markup : Code appears between colons `:EMOJICODE:`
 
 :mask:
+
+Owner : Punyawee Sangakew 682115026
